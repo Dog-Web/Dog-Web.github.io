@@ -12,7 +12,7 @@ export default function Hero() {
           <div className="max-w-3xl">
             <div className="mb-4 opacity-0 animate-fade-in-up">
               <span className="inline-block px-4 py-2 bg-ocean/10 text-ocean rounded-full text-sm font-medium">
-                Software Engineer (Data) | Azure Certified
+                Backend Platform Engineer | Distributed Systems | AWS · Azure | AZ-204
               </span>
             </div>
             <h2 className="text-5xl md:text-7xl font-bold mb-6 opacity-0 animate-fade-in-up delay-100">
@@ -23,8 +23,9 @@ export default function Hero() {
               {" "}solutions
             </h2>
             <p className="text-xl text-muted-foreground mb-8 opacity-0 animate-fade-in-up delay-200">
-              Fullstack developer specializing in end-to-end AI solutions, cloud DevOps,
-              and intelligent automation. Currently building maritime technology solutions in Amsterdam.
+              Backend engineer with 3 years of experience building multi-tenant platforms, identity systems,
+              and data pipelines on AWS and Azure. Owned greenfield systems end-to-end — from data modelling
+              and API design to infrastructure-as-code and CI/CD. Currently leading a team in Amsterdam.
             </p>
             <div className="flex gap-4 opacity-0 animate-fade-in-up delay-300">
               <a

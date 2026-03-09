@@ -1,8 +1,8 @@
 export default function About() {
   const techStack = [
-    'Next.js', 'React', 'TypeScript', 'Python', 'Node.js',
-    'LangChain', 'Azure OpenAI', 'PostgreSQL', 'Docker',
-    'Azure DevOps', 'Terraform', 'FastAPI'
+    'TypeScript', 'Python', 'Java', 'FastAPI', 'Next.js', 'React',
+    'PostgreSQL', 'MongoDB', 'Terraform', 'GitHub Actions OIDC',
+    'Docker', 'AWS', 'Azure', 'OAuth 2.0/PKCE', 'SQS', 'Kafka'
   ];
 
   return (
@@ -12,9 +12,10 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12">
           <div className="space-y-6">
             <p className="text-muted-foreground leading-relaxed">
-              Results-driven software engineer with experience in building end-to-end AI solutions,
-              cloud DevOps, and agile development. I focus on delivering testable solutions that
-              streamline workflows and create measurable business impact.
+              Backend engineer specializing in distributed backend systems and platform engineering
+              on AWS and Azure — IAM platforms, event-driven data pipelines, and multi-tenant
+              environments. Focused on clean service boundaries, secure defaults, and keeping
+              systems simple enough for the next engineer to extend.
             </p>
 
             <div className="space-y-3">
